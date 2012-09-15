@@ -1,7 +1,4 @@
-/**
-Wheel mouse taken from http://wiki.processing.org/index.php/Wheel_mouse
-@author Rick Companje
-*/
+import processing.opengl.*;
 import java.awt.event.*;
  
 int sW = 64;
@@ -113,6 +110,10 @@ void keyPressed(){
     }
 }
 
+/**
+Wheel mouse taken from http://wiki.processing.org/index.php/Wheel_mouse
+@author Rick Companje
+*/
 void mouseWheel(int delta) {
   loc.z += delta;
   posCheck();
