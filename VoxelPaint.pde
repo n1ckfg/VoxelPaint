@@ -4,10 +4,10 @@ import java.awt.event.*;
 int sW = 64;
 int sH = 64;
 int sD = 64;
+int scaleFactor=10;
 int dW = 1920;
 int dH = 1080;
 int fps = 60;
-int scaleFactor=10;
 PVector offsetOrig = new PVector(0, 0, -1 * 20 * scaleFactor);
 PVector offset = offsetOrig;
 PVector loc = new PVector(0, 0, 0);
@@ -15,9 +15,11 @@ float offsetDelta = 10;
 float drawOdds = 0.001;
 boolean triggered=false;
 
-Voxel[][][] voxel = new Voxel[sW][sH][sD];
+Voxel[][][] voxel;
 
 void setup() {
+  Settings settings = new Settings("settings.txt");
+  voxel = new Voxel[sW][sH][sD];
   size(sW*scaleFactor, sH*scaleFactor, OPENGL);
   addMouseWheelListener(new MouseWheelListener() { 
     public void mouseWheelMoved(MouseWheelEvent mwe) { 

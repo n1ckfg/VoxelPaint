@@ -1,0 +1,11 @@
+Volume Width
+128
+
+Volume Height
+72
+
+Volume Depth
+100
+
+Display Scale Factor
+10
