@@ -1,3 +1,9 @@
+/**
+Wheel mouse taken from http://wiki.processing.org/index.php/Wheel_mouse
+@author Rick Companje
+*/
+import java.awt.event.*;
+ 
 int sW = 64;
 int sH = 64;
 int sD = 64;
@@ -13,6 +19,10 @@ Voxel[][][] voxel = new Voxel[sW][sH][sD];
 
 void setup() {
   size(sW*scaleFactor, sH*scaleFactor, OPENGL);
+  addMouseWheelListener(new MouseWheelListener() { 
+    public void mouseWheelMoved(MouseWheelEvent mwe) { 
+      mouseWheel(mwe.getWheelRotation());
+  }}); 
   initVolume();
   noCursor();
 }
@@ -29,6 +39,7 @@ void draw() {
       }
     }
   }
+  println(triggered);
 }
 
 void posCheck(){
@@ -68,9 +79,13 @@ void controls() {
 }
 
 void keyPressed(){
+    if(key!=' '){
+      triggered=false;
+    }
     if(key=='n'||key=='N') initVolume();
-    if(key==' '){
+    if(key==' '&&!triggered){
       voxel[int(loc.x)][int(loc.y)][int(loc.z)].drawMe=!voxel[int(loc.x)][int(loc.y)][int(loc.z)].drawMe;
+      triggered=true;
     }
     if (keyCode==34) {
       loc.z ++;
@@ -96,6 +111,12 @@ void keyPressed(){
       loc.y --;
       if(loc.y<0) loc.y=0;
     }
+}
+
+void mouseWheel(int delta) {
+  loc.z += delta;
+  posCheck();
+  println("mouse has moved by " + delta + " units."); 
 }
 
 void initVolume(){
