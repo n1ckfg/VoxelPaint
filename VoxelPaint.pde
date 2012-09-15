@@ -35,7 +35,9 @@ void draw() {
     for (int j=0;j<voxel[i].length;j++) {
       for (int k=0;k<voxel[i][j].length;k++) {
         voxel[i][j][k].selectMe=false;
+        voxel[i][j][k].sameZ=false;
         voxel[int(loc.x)][int(loc.y)][int(loc.z)].selectMe=true;
+        voxel[i][j][int(loc.z)].sameZ=true;
         voxel[i][j][k].update();
       }
     }

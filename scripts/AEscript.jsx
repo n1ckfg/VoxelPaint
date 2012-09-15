@@ -20,691 +20,1345 @@
 
 	var p = solid.property("position");
 
+		p.setValueAtTime(0, [ 90.0, 100.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 90.0, 110.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 90.0, 120.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 90.0, 130.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 90.0, 140.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 90.0, 150.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 90.0, 160.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 100.0, 80.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 100.0, 90.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 100.0, 160.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 100.0, 170.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 100.0, 180.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 110.0, 80.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 110.0, 180.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 110.0, 190.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 120.0, 70.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 120.0, 80.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 120.0, 190.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 120.0, 200.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 120.0, 210.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 130.0, 70.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 130.0, 210.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 130.0, 220.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 60.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 70.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 150.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 160.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 170.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 180.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 190.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 200.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 210.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 220.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 220.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 230.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 140.0, 240.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 150.0, 60.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 150.0, 130.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 150.0, 140.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 150.0, 150.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 150.0, 220.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 150.0, 230.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 150.0, 240.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 150.0, 250.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 150.0, 260.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 150.0, 270.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 150.0, 280.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 160.0, 60.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 160.0, 120.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 160.0, 230.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 160.0, 280.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 160.0, 290.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 160.0, 300.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 170.0, 50.0,0.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 170.0, 110.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
 		p.setValueAtTime(0, [ 170.0, 230.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 170.0, 240.0,0.0]);
+		p.setValueAtTime(0, [ 170.0, 300.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 170.0, 250.0,0.0]);
+		p.setValueAtTime(0, [ 170.0, 310.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 170.0, 260.0,0.0]);
+		p.setValueAtTime(0, [ 170.0, 320.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 170.0, 270.0,0.0]);
+		p.setValueAtTime(0, [ 180.0, 50.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 170.0, 280.0,0.0]);
+		p.setValueAtTime(0, [ 180.0, 100.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 170.0, 290.0,0.0]);
+		p.setValueAtTime(0, [ 180.0, 230.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 170.0, 300.0,0.0]);
+		p.setValueAtTime(0, [ 180.0, 320.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 180.0, 210.0,0.0]);
+		p.setValueAtTime(0, [ 190.0, 50.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 180.0, 220.0,0.0]);
+		p.setValueAtTime(0, [ 190.0, 90.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 180.0, 360.0,50.0]);
+		p.setValueAtTime(0, [ 190.0, 100.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 180.0, 370.0,50.0]);
+		p.setValueAtTime(0, [ 190.0, 190.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 180.0, 380.0,50.0]);
+		p.setValueAtTime(0, [ 190.0, 200.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 180.0, 390.0,50.0]);
+		p.setValueAtTime(0, [ 190.0, 210.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 180.0, 400.0,50.0]);
+		p.setValueAtTime(0, [ 190.0, 220.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 180.0, 410.0,50.0]);
+		p.setValueAtTime(0, [ 190.0, 230.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 190.0, 200.0,0.0]);
+		p.setValueAtTime(0, [ 190.0, 230.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 190.0, 210.0,0.0]);
+		p.setValueAtTime(0, [ 190.0, 240.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 190.0, 350.0,50.0]);
+		p.setValueAtTime(0, [ 190.0, 250.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 190.0, 360.0,50.0]);
+		p.setValueAtTime(0, [ 190.0, 260.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 190.0, 410.0,50.0]);
+		p.setValueAtTime(0, [ 190.0, 320.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 190.0, 420.0,50.0]);
+		p.setValueAtTime(0, [ 200.0, 50.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 200.0, 190.0,0.0]);
+		p.setValueAtTime(0, [ 200.0, 90.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 200.0, 200.0,0.0]);
+		p.setValueAtTime(0, [ 200.0, 180.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 200.0, 340.0,50.0]);
+		p.setValueAtTime(0, [ 200.0, 190.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 200.0, 350.0,50.0]);
+		p.setValueAtTime(0, [ 200.0, 230.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 200.0, 430.0,50.0]);
+		p.setValueAtTime(0, [ 200.0, 270.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 200.0, 440.0,50.0]);
+		p.setValueAtTime(0, [ 200.0, 280.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 210.0, 190.0,0.0]);
+		p.setValueAtTime(0, [ 200.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 210.0, 330.0,50.0]);
+		p.setValueAtTime(0, [ 210.0, 50.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 210.0, 340.0,50.0]);
+		p.setValueAtTime(0, [ 210.0, 90.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 210.0, 440.0,50.0]);
+		p.setValueAtTime(0, [ 210.0, 170.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 220.0, 190.0,0.0]);
+		p.setValueAtTime(0, [ 210.0, 180.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 220.0, 330.0,50.0]);
+		p.setValueAtTime(0, [ 210.0, 230.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 220.0, 450.0,50.0]);
+		p.setValueAtTime(0, [ 210.0, 280.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 230.0, 190.0,0.0]);
+		p.setValueAtTime(0, [ 210.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 230.0, 320.0,50.0]);
+		p.setValueAtTime(0, [ 210.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 230.0, 330.0,50.0]);
+		p.setValueAtTime(0, [ 220.0, 50.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 230.0, 450.0,50.0]);
+		p.setValueAtTime(0, [ 220.0, 80.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 240.0, 190.0,0.0]);
+		p.setValueAtTime(0, [ 220.0, 170.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 240.0, 300.0,50.0]);
+		p.setValueAtTime(0, [ 220.0, 230.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 240.0, 310.0,50.0]);
+		p.setValueAtTime(0, [ 220.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 240.0, 450.0,50.0]);
+		p.setValueAtTime(0, [ 220.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 250.0, 190.0,0.0]);
+		p.setValueAtTime(0, [ 230.0, 50.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 250.0, 190.0,10.0]);
+		p.setValueAtTime(0, [ 230.0, 80.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 250.0, 290.0,50.0]);
+		p.setValueAtTime(0, [ 230.0, 170.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 250.0, 300.0,50.0]);
+		p.setValueAtTime(0, [ 230.0, 230.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 260.0, 180.0,10.0]);
+		p.setValueAtTime(0, [ 230.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 260.0, 280.0,50.0]);
+		p.setValueAtTime(0, [ 230.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 260.0, 450.0,50.0]);
+		p.setValueAtTime(0, [ 240.0, 50.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 270.0, 180.0,10.0]);
+		p.setValueAtTime(0, [ 240.0, 80.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 270.0, 280.0,50.0]);
+		p.setValueAtTime(0, [ 240.0, 160.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 270.0, 450.0,50.0]);
+		p.setValueAtTime(0, [ 240.0, 170.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 280.0, 170.0,10.0]);
+		p.setValueAtTime(0, [ 240.0, 230.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 280.0, 280.0,50.0]);
+		p.setValueAtTime(0, [ 240.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 280.0, 450.0,50.0]);
+		p.setValueAtTime(0, [ 240.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 290.0, 170.0,10.0]);
+		p.setValueAtTime(0, [ 250.0, 50.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 290.0, 280.0,50.0]);
+		p.setValueAtTime(0, [ 250.0, 60.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 290.0, 450.0,50.0]);
+		p.setValueAtTime(0, [ 250.0, 80.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 300.0, 170.0,10.0]);
+		p.setValueAtTime(0, [ 250.0, 160.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 300.0, 280.0,50.0]);
+		p.setValueAtTime(0, [ 250.0, 230.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 300.0, 290.0,50.0]);
+		p.setValueAtTime(0, [ 250.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 300.0, 300.0,50.0]);
+		p.setValueAtTime(0, [ 250.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 300.0, 440.0,40.0]);
+		p.setValueAtTime(0, [ 260.0, 60.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 300.0, 440.0,50.0]);
+		p.setValueAtTime(0, [ 260.0, 70.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 300.0, 450.0,50.0]);
+		p.setValueAtTime(0, [ 260.0, 80.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 310.0, 170.0,10.0]);
+		p.setValueAtTime(0, [ 260.0, 160.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 310.0, 300.0,50.0]);
+		p.setValueAtTime(0, [ 260.0, 220.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 310.0, 310.0,50.0]);
+		p.setValueAtTime(0, [ 260.0, 230.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 310.0, 440.0,40.0]);
+		p.setValueAtTime(0, [ 260.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 320.0, 170.0,10.0]);
+		p.setValueAtTime(0, [ 260.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 320.0, 180.0,10.0]);
+		p.setValueAtTime(0, [ 270.0, 70.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 320.0, 440.0,40.0]);
+		p.setValueAtTime(0, [ 270.0, 80.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 330.0, 180.0,10.0]);
+		p.setValueAtTime(0, [ 270.0, 80.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 330.0, 190.0,10.0]);
+		p.setValueAtTime(0, [ 270.0, 90.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 330.0, 190.0,20.0]);
+		p.setValueAtTime(0, [ 270.0, 150.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 330.0, 440.0,40.0]);
+		p.setValueAtTime(0, [ 270.0, 160.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 340.0, 190.0,20.0]);
+		p.setValueAtTime(0, [ 270.0, 220.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 340.0, 440.0,40.0]);
+		p.setValueAtTime(0, [ 270.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 350.0, 190.0,20.0]);
+		p.setValueAtTime(0, [ 270.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 350.0, 430.0,40.0]);
+		p.setValueAtTime(0, [ 280.0, 80.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 360.0, 430.0,40.0]);
+		p.setValueAtTime(0, [ 280.0, 90.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 370.0, 200.0,20.0]);
+		p.setValueAtTime(0, [ 280.0, 100.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 370.0, 430.0,40.0]);
+		p.setValueAtTime(0, [ 280.0, 110.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 380.0, 210.0,20.0]);
+		p.setValueAtTime(0, [ 280.0, 150.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 380.0, 420.0,40.0]);
+		p.setValueAtTime(0, [ 280.0, 210.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 380.0, 430.0,40.0]);
+		p.setValueAtTime(0, [ 280.0, 220.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 220.0,20.0]);
+		p.setValueAtTime(0, [ 280.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 230.0,20.0]);
+		p.setValueAtTime(0, [ 280.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 240.0,20.0]);
+		p.setValueAtTime(0, [ 290.0, 80.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 250.0,20.0]);
+		p.setValueAtTime(0, [ 290.0, 110.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 260.0,20.0]);
+		p.setValueAtTime(0, [ 290.0, 120.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 270.0,20.0]);
+		p.setValueAtTime(0, [ 290.0, 130.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 280.0,20.0]);
+		p.setValueAtTime(0, [ 290.0, 140.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 290.0,20.0]);
+		p.setValueAtTime(0, [ 290.0, 150.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 290.0,30.0]);
+		p.setValueAtTime(0, [ 290.0, 150.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 370.0,30.0]);
+		p.setValueAtTime(0, [ 290.0, 190.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 380.0,30.0]);
+		p.setValueAtTime(0, [ 290.0, 200.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 380.0,40.0]);
+		p.setValueAtTime(0, [ 290.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 390.0,40.0]);
+		p.setValueAtTime(0, [ 290.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 400.0,40.0]);
+		p.setValueAtTime(0, [ 300.0, 80.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 410.0,40.0]);
+		p.setValueAtTime(0, [ 300.0, 150.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 390.0, 420.0,40.0]);
+		p.setValueAtTime(0, [ 300.0, 160.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 400.0, 300.0,30.0]);
+		p.setValueAtTime(0, [ 300.0, 170.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 400.0, 370.0,30.0]);
+		p.setValueAtTime(0, [ 300.0, 180.0,0.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 410.0, 300.0,30.0]);
+		p.setValueAtTime(0, [ 300.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 410.0, 310.0,30.0]);
+		p.setValueAtTime(0, [ 300.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 410.0, 360.0,30.0]);
+		p.setValueAtTime(0, [ 310.0, 90.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 410.0, 370.0,30.0]);
+		p.setValueAtTime(0, [ 310.0, 150.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 420.0, 310.0,30.0]);
+		p.setValueAtTime(0, [ 310.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 420.0, 320.0,30.0]);
+		p.setValueAtTime(0, [ 310.0, 330.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 420.0, 330.0,30.0]);
+		p.setValueAtTime(0, [ 320.0, 90.0,630.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 420.0, 340.0,30.0]);
+		p.setValueAtTime(0, [ 320.0, 150.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 420.0, 350.0,30.0]);
+		p.setValueAtTime(0, [ 320.0, 290.0,420.0]);
 	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
 	solid.threeDLayer=true;
 
 	var p = solid.property("position");
 
-		p.setValueAtTime(0, [ 420.0, 360.0,30.0]);
+		p.setValueAtTime(0, [ 320.0, 330.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 330.0, 100.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 330.0, 150.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 330.0, 290.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 330.0, 320.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 330.0, 330.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 340.0, 100.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 340.0, 110.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 340.0, 150.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 340.0, 160.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 340.0, 290.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 340.0, 320.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 350.0, 110.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 350.0, 120.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 350.0, 160.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 350.0, 170.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 350.0, 280.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 350.0, 290.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 350.0, 320.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 360.0, 120.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 360.0, 130.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 360.0, 180.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 360.0, 270.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 360.0, 280.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 360.0, 310.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 370.0, 130.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 370.0, 140.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 370.0, 190.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 370.0, 200.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 370.0, 210.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 370.0, 240.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 370.0, 250.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 370.0, 260.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 370.0, 270.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 370.0, 300.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 380.0, 140.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 380.0, 150.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 380.0, 160.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 380.0, 210.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 380.0, 220.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 380.0, 230.0,420.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 380.0, 280.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 380.0, 290.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 160.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 170.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 180.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 190.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 200.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 210.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 220.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 230.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 240.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 250.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 260.0,630.0]);
+	var solid = myComp.layers.addSolid([1.0, 1.0, 0], "my square", 50, 50, 1);
+	solid.threeDLayer=true;
+
+	var p = solid.property("position");
+
+		p.setValueAtTime(0, [ 390.0, 270.0,630.0]);
 	myComp.layers.addCamera("Camera 1", [960,540]);
 
 	app.endUndoGroup();
