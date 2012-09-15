@@ -40,7 +40,7 @@ void AEkeysBegin() {
   dataAE.add("\t" + "var compW = " + dW + "; // comp width" + "\r");
   dataAE.add("\t" + "var compH = " + dH + "; // comp height" + "\r");
   dataAE.add("\t" + "var compL = " + (100) + ";  // comp length (seconds)" + "\r");
-  dataAE.add("\t" + "var compRate = " + fps + "; // comp frame rate" + "\r");
+  dataAE.add("\t" + "var compRate = " + 24 + "; // comp frame rate" + "\r");
   dataAE.add("\t" + "var compBG = [0/255,0/255,0/255] // comp background color" + "\r");
   dataAE.add("\t" + "var myItemCollection = app.project.items;" + "\r");
   dataAE.add("\t" + "var myComp = myItemCollection.addComp('my comp',compW,compH,1,compL,compRate);" + "\r");
