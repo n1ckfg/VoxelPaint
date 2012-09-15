@@ -4,6 +4,9 @@ import java.awt.event.*;
 int sW = 64;
 int sH = 64;
 int sD = 64;
+int dW = 1920;
+int dH = 1080;
+int fps = 60;
 int scaleFactor=10;
 PVector offsetOrig = new PVector(0, 0, -1 * 20 * scaleFactor);
 PVector offset = offsetOrig;
@@ -22,6 +25,7 @@ void setup() {
   }}); 
   initVolume();
   noCursor();
+  frameRate(fps);
 }
 
 void draw() {
@@ -36,7 +40,7 @@ void draw() {
       }
     }
   }
-  println(triggered);
+  //println(triggered);
 }
 
 void posCheck(){
@@ -79,7 +83,11 @@ void keyPressed(){
     if(key!=' '){
       triggered=false;
     }
-    if(key=='n'||key=='N') initVolume();
+    if(key=='n'||key=='N'){
+      mayaKeysMain();
+      AEkeysMain();
+      initVolume();
+    }
     if(key==' '&&!triggered){
       voxel[int(loc.x)][int(loc.y)][int(loc.z)].drawMe=!voxel[int(loc.x)][int(loc.y)][int(loc.z)].drawMe;
       triggered=true;
@@ -117,7 +125,7 @@ Wheel mouse taken from http://wiki.processing.org/index.php/Wheel_mouse
 void mouseWheel(int delta) {
   loc.z += delta;
   posCheck();
-  println("mouse has moved by " + delta + " units."); 
+  //println("mouse has moved by " + delta + " units."); 
 }
 
 void initVolume(){
