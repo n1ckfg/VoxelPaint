@@ -1,6 +1,8 @@
 import processing.opengl.*;
 import java.awt.event.*;
- 
+import peasy.*;
+
+PeasyCam cam;
 int sW = 64;
 int sH = 64;
 int sD = 64;
@@ -28,6 +30,9 @@ void setup() {
   initVolume();
   noCursor();
   frameRate(fps);
+  //cam = new PeasyCam(this,0,0,0,50);
+  //cam.setMinimumDistance(50);
+  //cam.setMaximumDistance(500);
 }
 
 void draw() {
