@@ -30,7 +30,7 @@ void setup() {
   initVolume();
   noCursor();
   frameRate(fps);
-  //cam = new PeasyCam(this,0,0,0,50);
+  cam = new PeasyCam(this,0,0,0,50);
   //cam.setMinimumDistance(50);
   //cam.setMaximumDistance(500);
 }
